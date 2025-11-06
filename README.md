@@ -61,6 +61,8 @@ Each model was evaluated using **RMSE** and **MAE** metrics to compare predictiv
 McMaster University — Actuarial and Financial Math  
 📧 www.linkedin.com/in/jalen-chong
 
+### Beeswarm 
+![Screenshot_6-11-2025_21915_](https://github.com/user-attachments/assets/826b2823-7515-46f0-8958-0a53d4ac81df)
 
-
-
+### Shap plot
+![Screenshot_6-11-2025_22312_](https://github.com/user-attachments/assets/4a19dc9e-cffc-4de4-98b6-5e6f30c651d0)
